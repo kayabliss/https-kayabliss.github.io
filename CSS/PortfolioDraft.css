@@ -11,7 +11,7 @@
   height: 230px;
   background-image: url(../graffitwallwelcome.jpeg);
   background-size: contain;);
-  background-size: contain;
+  background-size: contain; 
 
 }
 .mycontact{
@@ -48,4 +48,11 @@ h1{
 .self
 {
   width: 50%;
+}
+.projectbanner{
+  margin: 0px 0px;
+  border: solid 10px #cbedf2;
+  height: 230px;
+  background-image: url(../GraffitiChairphoto2.png);
+  background-size: contain;
 }
