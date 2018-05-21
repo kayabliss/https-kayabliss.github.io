@@ -25,16 +25,17 @@ h1{
   font-family: Abril Fatface;
   font-size: 40px;
   font-weight: 400;
-  line-height: 50px;
+  /*line-height: 50px; */
   width: 626px;
-  text-align: center;
+  /*text-align: center; */
 }
 .shape{
 	background-color: rgba(255, 255, 255, 0);
 	border: 2px solid #47525E;
 	border-radius: 5px;
-	width: 585.52px;
-	height: 69.18px;
+	/*width: 585.52px;
+	height: 69.18px; */
+  margin-top: 10px;
   margin-bottom: 65px;
 }
 

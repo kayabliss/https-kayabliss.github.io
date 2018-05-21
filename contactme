@@ -42,6 +42,22 @@
 			</div>
 			
 		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<h2>Enter password to download resume.</h2>
+					<input type="text" name="password" placeholder="Enter password here">
+					<button>Submit</button>
+				</div>
+			</div>
+		</div>
 
+<script type="text/javascript">
+	function Checkpassword (){
+		if (password.value == "dreambig") {
+			console.log("it worked")
+		}
+	}
+</script>
 </body>
 </html>
